@@ -1,4 +1,4 @@
 token:
-  expiration_time: 20000
-  secret: 'test222'
+  expiration_time: 30000
+  secret: 'test33'
   secert2: 'plain_test1'
