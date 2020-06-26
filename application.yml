@@ -1,3 +1,4 @@
 token:
-  expiration_time: 864123
-  secret: 'dsda'
+  expiration_time: 10000
+  secret: 'test1'
+  secert2: 'plain_test1'
